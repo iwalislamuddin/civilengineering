@@ -1,2 +1,3 @@
-# starter.github.io
-Cara mempublikasikan halaman web
+# Aplikasi Web - Teknik Sipil
+
+Belajar dulu lah
